@@ -3,6 +3,7 @@
 ## Figma file
   https://www.figma.com/design/nnEEKl1BMSQOs9TMlIdwpd/real-estate-design.?node-id=0-1&node-type=canvas&t=FIEw2TSh4yRejnWj-0
 
+### ABOUT
 This is a static website for Faoziah Shade Gamu Consulting Company
 
 Stacks deloyed
